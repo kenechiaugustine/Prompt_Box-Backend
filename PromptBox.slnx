@@ -1,2 +1,7 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PromptBox.Api/PromptBox.Api.csproj" />
+    <Project Path="src/PromptBox.Core/PromptBox.Core.csproj" />
+    <Project Path="src/PromptBox.Infrastructure/PromptBox.Infrastructure.csproj" />
+  </Folder>
 </Solution>
